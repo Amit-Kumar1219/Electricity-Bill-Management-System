@@ -1,2 +1,2 @@
 # Electricity-Bill-Management-System
-An SQL based Project 
+Database Management Project using MySQL
